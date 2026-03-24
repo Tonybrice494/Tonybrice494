@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Tonybrice494
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on enything
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me (tonybrice494@gmail.com)
-- 😄 Pronouns: unknown,it,???,thing and him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i classify as a chair
 <!---
 Tonybrice494/Tonybrice494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
